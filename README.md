@@ -25,3 +25,7 @@ The dashboard includes:
 - Top 20 Students
 - Grade Distribution
 - Pass vs Fail Analysis
+
+## Dashboard Preview
+
+![Dashboard](Student_Performance_Dashboard.png)
